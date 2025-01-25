@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &645883245303107251
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 224708101802718866}
+  - component: {fileID: 1597066160189558902}
+  m_Layer: 0
+  m_Name: HaptikosResources
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &224708101802718866
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 645883245303107251}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1597066160189558902
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 645883245303107251}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8996c8629b1ec944b812ef5182aee77c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sceneLoader: {fileID: -7238398846448777923, guid: 36bb5ed859247914db9c42e9db0e05e7, type: 3}
+  haptikosEventSystem: {fileID: 4867259646367537517, guid: 84d47e5b80dbdcb40a5441e1ee30a63c, type: 3}
+  slider: {fileID: 7171582739827053747, guid: 32b923fa92cc49c449b7e006cba9d893, type: 3}
+  calibrationManager: {fileID: 1974455279081552404, guid: ee816e79ebf50e14489bf12ee0364a42, type: 3}
+  raycastMaterial: {fileID: 2100000, guid: bd96bb45b0757f04f9fe9efc49183172, type: 2}
+  circle: {fileID: 21300000, guid: d0eda9beb1f90e0409d4ac2ed357e807, type: 3}

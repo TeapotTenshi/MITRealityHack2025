@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31c0937ae38433446a3d4e3db40d7bba, type: 3}
+  m_Name: Haptikos Item Panel Settings
+  m_EditorClassIdentifier: 
+  haptikosPlayerPath: Assets/Haptik_OS Unity SDK/Runtime/Prefabs/Player/Haptikos
+    Player.prefab
+  haptikosPlaybackPlayerPath: Assets/Haptik_OS Unity SDK/Runtime/Prefabs/Playback
+    Player/Playback Glove.prefab
+  buttonPath: Assets/Haptik_OS Unity SDK/Runtime/Prefabs/Interactions/Haptikos_Table_Button.prefab
+  sliderPath: Assets/Haptik_OS Unity SDK/Runtime/Prefabs/Interactions/Haptikos_Slider.prefab
+  dimmerPath: Assets/Haptik_OS Unity SDK/Runtime/Prefabs/Interactions/Haptikos_Dimmer.prefab
+  leverPath: Assets/Haptik_OS Unity SDK/Runtime/Prefabs/Interactions/Haptikos_Lever.prefab
+  switchPath: Assets/Haptik_OS Unity SDK/Runtime/Prefabs/Interactions/Haptikos_Table_Switch.prefab
+  wallSwitchPath: Assets/Haptik_OS Unity SDK/Runtime/Prefabs/Interactions/Haptikos_Wall_Switch.prefab
+  basicGrabbablePath: Assets/Haptik_OS Unity SDK/Runtime/Prefabs/Object Manipulation/Grabbable_Item.prefab
+  beatingHeartPath: Assets/Haptik_OS Unity SDK/Runtime/Prefabs/Haptics/Beating Heart.prefab
+  waterSinkPath: Assets/Haptik_OS Unity SDK/Runtime/Prefabs/Haptics/Water Sink.prefab
+  recognizerPath: Assets/Haptik_OS Unity SDK/Runtime/Prefabs/Gestures/Gesture Recognizer
+    Example.prefab
+  teleportRaycasterPath: Assets/Haptik_OS Unity SDK/Runtime/Prefabs/Gestures/Teleport
+    Raycast.prefab
+  cursorRaycasterPath: Assets/Haptik_OS Unity SDK/Runtime/Prefabs/Gestures/Pinch
+    Raycast.prefab
+  teleportAreaPath: Assets/Haptik_OS Unity SDK/Runtime/Prefabs/Gestures/TeleportArea.prefab
+  followRayPath: Assets/Haptik_OS Unity SDK/Runtime/Prefabs/Gestures/FollowRayExample.prefab
+  uiButtonPath: Assets/Haptik_OS Unity SDK/Runtime/Prefabs/Gestures/Canvas and Button.prefab
+  raycastMenuPath: Assets/Haptik_OS Unity SDK/Runtime/Prefabs/Gestures/Raycast Menu.prefab
+  portalPath: Assets/Haptik_OS Unity SDK/Runtime/Prefabs/Misc/Portal.prefab
+  teleportationAreaPath: Assets/Haptik_OS Unity SDK/Runtime/Prefabs/Misc/TeleportationArea.prefab

@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Haptik_OS Unity SDK/Runtime/Scenes/Tutorial.unity
+    guid: f3ae6cbf2c0ea584897003a83b9c3f04
+  - enabled: 0
+    path: Assets/Haptik_OS Unity SDK/Samples/Demo Scenes/Haptikos Player.unity
+    guid: 25f395af15d63924e9550a267ea06caa
+  - enabled: 0
+    path: Assets/Haptik_OS Unity SDK/Samples/Demo Scenes/Recording Playback.unity
+    guid: a33ab3cbffb93eb418257ef0c2307563
+  - enabled: 0
+    path: Assets/Haptik_OS Unity SDK/Samples/Demo Scenes/Interactions/Button.unity
+    guid: 5cd8ca1f01e75e046a18323eaeb6c897
+  - enabled: 0
+    path: Assets/Haptik_OS Unity SDK/Samples/Demo Scenes/Interactions/Dimmer.unity
+    guid: 392d936c412914b4a9cbab6bd487c8f2
+  - enabled: 0
+    path: Assets/Haptik_OS Unity SDK/Samples/Demo Scenes/Interactions/Grabbable Object.unity
+    guid: 44dc5d4087172004f9db399f77f0f971
+  - enabled: 0
+    path: Assets/Haptik_OS Unity SDK/Samples/Demo Scenes/Interactions/Lever.unity
+    guid: d338ff4db460244489b51221cb51af91
+  - enabled: 0
+    path: Assets/Haptik_OS Unity SDK/Samples/Demo Scenes/Interactions/Table Switch.unity
+    guid: 979f12b8be33cc041a460f215e7ba1f0
+  - enabled: 0
+    path: Assets/Haptik_OS Unity SDK/Samples/Demo Scenes/Interactions/Wall Switch.unity
+    guid: 21d886afce7213d41b4b0853adc80a97
+  - enabled: 0
+    path: Assets/Haptik_OS Unity SDK/Runtime/Haptics SDK/Samples/Example Scenes/HapticsVisualization.unity
+    guid: 1309ce82e7b751d43a583b15a0c077ff
+  - enabled: 1
+    path: Assets/Haptik_OS Unity SDK/Runtime/Haptics SDK/Samples/Example Scenes/Haptics
+      Demo.unity
+    guid: 06f441992efb9fe44939de00cfa2b09f
+  - enabled: 1
+    path: Assets/Haptik_OS Unity SDK/Runtime/Gestures SDK/Samples/Example Scenes/Gesture
+      Showcase.unity
+    guid: d7307c6653d7b2a4f98d6e7284adb8d0
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 4dfb7251e84af6f4aa415126bfdff83b,
+      type: 2}
+    Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: 4000e5eff5dec7f4db5c11225b98d1a0,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 090d6aa0c6fcf2a46af54fc243decf75,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 910ec50045f215a46888ded44bb6dba0,
+      type: 2}

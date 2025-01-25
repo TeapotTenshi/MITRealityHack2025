@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Slider
+  - Obstacle
+  - Hand
+  - Finger
+  - AnimFollow
+  - projectile
+  - FxTemporaire
+  - Haptik_Object
+  - Right Hand
+  - Left Hand
+  - WaterCollider
+  - Paper
+  - HandMesh
+  - Calibration Hand
+  - Haptikos_Object
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Visualization
+  - 
+  - Haptikos Hands
+  - Teleport
+  - HPTK Hands
+  - HPTK Objects
+  - HPTK Passthrough
+  - Selectable
+  - DrawableSurface
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
