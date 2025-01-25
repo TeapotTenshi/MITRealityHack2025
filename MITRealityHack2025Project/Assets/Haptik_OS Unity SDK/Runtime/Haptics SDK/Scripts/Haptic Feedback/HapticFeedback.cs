@@ -185,11 +185,11 @@ public class HapticFeedback : MonoBehaviour
         {
             if (finger.Contains("wrist"))
             {
-                glove.uDPReciever.SendHapticData($"index3 on@{intensity}");
-                glove.uDPReciever.SendHapticData($"middle3 on@{intensity}");
-                glove.uDPReciever.SendHapticData($"ring3 on@{intensity}");
-                glove.uDPReciever.SendHapticData($"pinky3 on@{intensity}");
-                glove.uDPReciever.SendHapticData($"thumb3 on@{intensity}");
+                ////glove.uDPReciever.SendHapticData($"index3 on@{intensity}");
+                ////glove.uDPReciever.SendHapticData($"middle3 on@{intensity}");
+                ////glove.uDPReciever.SendHapticData($"ring3 on@{intensity}");
+                ////glove.uDPReciever.SendHapticData($"pinky3 on@{intensity}");
+                ////glove.uDPReciever.SendHapticData($"thumb3 on@{intensity}");
             }
             else
             {
