@@ -1,0 +1,6 @@
+[submodule "ServerCode"]
+	path = ServerCode
+	url = https://github.com/Znasif/Xcess
+[submodule "HapticTrace"]
+	path = HapticTrace
+	url = https://github.com/Znasif/HapticTrace.git
