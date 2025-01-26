@@ -19,6 +19,8 @@ TagManager:
   - HandMesh
   - Calibration Hand
   - Haptikos_Object
+  - corner
+  - stan
   layers:
   - Default
   - TransparentFX
